@@ -8,11 +8,7 @@ import java.util.NoSuchElementException;
  * with priorities of type double. */
 public class Heap<E> {
 
-	/** Replace "-1" by the time you spent on A5 in hours.<br>
-	 * Example: for 3 hours 15 minutes, use 3.25<br>
-	 * Example: for 4 hours 30 minutes, use 4.50<br>
-	 * Example: for 5 hours, use 5 or 5.0 */
-	public static double timeSpent= 3.25;
+	
 
 	/** Class Invariant: <br>
 	 * 1. b[0..size-1] represents a complete binary tree. <br>
